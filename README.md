@@ -63,7 +63,7 @@ Once all that is done, navigate to - http://localhost:3000 to begin!
 
 
 ## Usage
-This application is deployed on Heroku at https://woof-2021.herokuapp.com/
+This application is deployed on Heroku at https://pure-plateau-50198.herokuapp.com/
 
 There are three types of access:
 * **Owner access**
@@ -104,7 +104,7 @@ Upcoming features:
 
 
 ## Screenshot
-<a href="https://woof-2021.herokuapp.com/"> <img src="./client/public/images/screenshot.jpg"></a>
+<a href="https://pure-plateau-50198.herokuapp.com/"> <img src="./client/public/images/screenshot.png"></a>
 
 ## License
 This repository is licensed under the MIT license.
